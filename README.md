@@ -1,4 +1,6 @@
 ﻿# Dust-detection-on-solar-panels-using-YOLO-computer-vision-
+ ![Screenshot](introduction.jpg)
+
 Till the project ends, this README file contains daily progress of the ongoing project
 
 
@@ -24,6 +26,7 @@ Till the project ends, this README file contains daily progress of the ongoing p
 ## Date: 13/10/2025:
 * Created a python script to collect solar radiation, temperature, pressure, humidity etc from NASA POWER website using API.
 * The data is stored in a csv file which consists of data of three years from 2022-01-01 to 2025-10-01.
+
 
 
 
